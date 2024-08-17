@@ -1,6 +1,6 @@
 # Language Translator
 
-![Language Translator](path-to-your-image) <!-- Optional: Add a project image or logo -->
+![Language Translator]("C:\Users\amitk\OneDrive\Pictures\Screenshots\Screenshot 2024-08-18 014709.png") <!-- Optional: Add a project image or logo -->
 
 ## Overview
 
